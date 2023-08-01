@@ -1,24 +1,12 @@
 # ts-01.08.23
 
-## Project setup
+### To install project use
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### To run project use
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
